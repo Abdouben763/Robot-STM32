@@ -1,0 +1,27 @@
+# IDE files
+.settings/
+.cproject
+.project
+.mxproject
+
+# Build folders
+Debug/
+Release/
+
+# Object files and binaries
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+*.lst
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other generated files
+*.dep
+*.dSYM/
+
