@@ -1,27 +1,52 @@
-# IDE files
+#settings
 .settings/
-.cproject
-.project
-.mxproject
 
-# Build folders
+#metadata
+.metadata/
+
+#Debug
 Debug/
+debug/
 Release/
+release
 
-# Object files and binaries
-*.o
-*.elf
-*.bin
-*.hex
-*.map
+# Prerequisites
 *.d
-*.lst
 
-# System files
-.DS_Store
-Thumbs.db
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
 
-# Other generated files
-*.dep
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.bin
+
+# Debug files
 *.dSYM/
-
+*.su
+*.idb
+*.pdb
