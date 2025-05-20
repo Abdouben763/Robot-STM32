@@ -1,5 +1,7 @@
 # 🤖 Robot STM32 contrôlé par application mobile
 
+![Robot](robot.png)
+
 Ce projet consiste en la conception et le développement d’un robot mobile basé sur une carte STM32 (NUCLEO-L152RE), contrôlé via une application mobile développée avec **MIT App Inventor**.
 
 ---
@@ -42,6 +44,8 @@ Ce projet consiste en la conception et le développement d’un robot mobile bas
 ---
 
 ## 📱 Application Mobile
+
+
 
 L'application Android permet :
 - D’envoyer des commandes au robot (avant, arrière, gauche, droite, stop)
