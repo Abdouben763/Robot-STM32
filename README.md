@@ -60,4 +60,3 @@ L'application Android permet :
 
 - **Nom :** Abderrahmane Benchikh  
 - **Formation :** Licence 3 Électronique (EEEA), Université de Rennes  
-- **Objectif :** Développement embarqué et logiciel – candidature en Master Informatique (alternance)
